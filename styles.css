@@ -1,0 +1,19 @@
+h2 {
+    color: darkgreen;
+}
+
+p strong, p em{
+    color: orange;
+}
+
+td.location{
+    color: darkblue;
+}
+
+td.class{
+   color: purple;
+}
+
+legend, label{
+    color: darkred;
+}
