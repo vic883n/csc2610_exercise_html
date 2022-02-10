@@ -4,6 +4,19 @@ h2 {
 
 p strong, p em{
     color: orange;
+    font-size: 1.5em;
+}
+
+p em{
+    text-decoration: underline;
+}
+
+ul {
+    line-height: 2em;
+}
+
+td{
+    text-align: center;
 }
 
 td.location{
@@ -16,4 +29,9 @@ td.class{
 
 legend, label{
     color: darkred;
+    font-weight: bold;
+}
+
+#name, #email {
+    background-color: lightblue;
 }
